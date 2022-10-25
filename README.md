@@ -1,4 +1,4 @@
-Iphone calculator app clone
+##Iphone calculator app clone
 
 
 ## Getting Started
