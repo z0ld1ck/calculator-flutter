@@ -1,6 +1,5 @@
-# proj1
+Iphone calculator app clone
 
-A new Flutter project.
 
 ## Getting Started
 
